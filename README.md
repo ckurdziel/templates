@@ -10,8 +10,8 @@ These are some templates for documents I often create (or have created in the pa
 3. [Team charter document][4]
 4. [Bug priority][5]
 
-[1]:	deal-retrospective.md
-[2]:	product-retrospective.md
-[3]:	product-userstory.md
-[4]:    product-teamcharter.md
-[5]:    product-bugpriority.md
+[1]:	investing/deal-retrospective.md
+[2]:	product/product-retrospective.md
+[3]:	product/product-userstory.md
+[4]:    product/product-teamcharter.md
+[5]:    product/product-bugpriority.md
