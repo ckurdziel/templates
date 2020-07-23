@@ -5,7 +5,9 @@ These are some templates for documents I often create (or have created in the pa
 1. [Deal retrospective template][1]. To be completed after a company exits or winds down.
 
 ## For PMs
-1. [Product team retrospective][2]. 
+1. [Product team retrospective][2].
+2. [User story template][3].
 
 [1]:	deal-retrospective.md
 [2]:	product-retrospective.md
+[3]:	product-userstory.md
