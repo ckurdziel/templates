@@ -7,7 +7,11 @@ These are some templates for documents I often create (or have created in the pa
 ## For PMs
 1. How to run a [product team retrospective][2].
 2. [User story template][3].
+3. [Team charter document][4]
+4. [Bug priority][5]
 
 [1]:	deal-retrospective.md
 [2]:	product-retrospective.md
 [3]:	product-userstory.md
+[4]:    product-teamcharter.md
+[5]:    product-bugpriority.md
