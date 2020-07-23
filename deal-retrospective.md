@@ -8,7 +8,7 @@
 *Cite specific examples from any prior documents or investment memos in block quotes with short analysis.*
 
 ## What action items or learning can we incorporate?
-*Based on the results in the previous two sections, document action items and their respective owners. Include any and all of the following: *
+*Based on the results in the previous two sections, document action items and their respective owners. Include any and all of the following:*
 - *Changes in thesis*
 - *Changes in diligence process*
 - *Changes in investment process*
