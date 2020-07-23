@@ -8,4 +8,4 @@ These are some templates for documents I often create (or have created in the pa
 1. [Product team retrospective][2]. 
 
 [1]:	deal-retrospective.md
-[2]:	product-restrospective.md
+[2]:	product-retrospective.md
