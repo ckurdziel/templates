@@ -17,7 +17,7 @@
  - What is your product roadmap for the next 6-12 months? What is the larger opportunity you're trying to capture in your product roadmap?
 
 ## Market-timing
- - Why is now the right time for this product/company? Why hasn’t this worked / been done before? 
+ - Why is now the right time for this product/company? Why hasn’t this worked / been done before?
 
 ## Go-to-market
  - Describe your user persona(s) to me (end user, buyers, etc)?
@@ -47,9 +47,8 @@
  - When will your company break even in terms of profitability and cash flow?
 
 ## Fundraise & future plans
- - How much have you raised to date? 
+ - How much have you raised to date? From whom?
  - What were the terms of those raises?
- - Who did you take money from?
  - How much are you looking to raise now? 
  - What are you looking to achieve (milestones) with this round if everything goes well?
  - Who do you need to hire during the next 18 months to be successful?
@@ -58,3 +57,4 @@
  - Have the current terms been set?  And if so, what are they? 
  - What is your burn rate? How big is the team? How far does the new money get you?
  - What is your top priority for the next 3-6 months? 
+- What do you want from your investors in this round?
