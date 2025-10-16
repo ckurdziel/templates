@@ -1,7 +1,7 @@
 # User Story Template
 _This can be configured as a TextExpander shortcut so it can easily be popped into JIRA, etc. I use `:story:` as the trigger.
-It can also be given to an LLM as a way of ensuring consistently generated tickets.
-_
+It can also be given to an LLM as a way of ensuring consistently generated tickets._
+
 *Pick a title for the user story that succinctly describes the entire behavior. something like: “**Actor does a thing**”*
 
 *In the body of the story, include the following:*
